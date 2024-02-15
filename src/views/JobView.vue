@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <h1>Jobs</h1>
-  </div>
+  <div>Hello from JobView page</div>
 </template>
-
-<script></script>

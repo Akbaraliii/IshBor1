@@ -1,23 +1,16 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import NavbarView from './components/NavbarView.vue'
+import NavbarView from './views/NavbarView.vue'
 </script>
 
 <template>
-  <NavbarView></NavbarView>
-  <header>
-    <!--  <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
--->
-    <div class="wrapper">
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/job">Job</RouterLink>
-      </nav>
-    </div>
-  </header>
-
-  <RouterView />
+  <div class="home">
+    <NavbarView></NavbarView>
+  </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.home {
+  color: red;
+  margin-top: 100px;
+}
+</style>
