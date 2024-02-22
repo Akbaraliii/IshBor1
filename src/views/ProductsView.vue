@@ -1,6 +1,6 @@
 <template>
   <div class="moto">
-    <h1>Muzqaymoqlar</h1>
+    <h1>Hamma muzqaymoqlar ro'yhati</h1>
   </div>
   <div class="ice-cream-container">
     <div class="ice-cream">
