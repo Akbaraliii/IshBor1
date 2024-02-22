@@ -16,6 +16,9 @@
           <li class="nav-item">
             <router-link to="/login" class="nav-link">Aloqa</router-link>
           </li>
+          <li class="nav-item">
+            <router-link to="/about" class="nav-link">Kompaniya Haqida</router-link>
+          </li>
         </ul>
       </div>
     </nav>

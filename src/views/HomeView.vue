@@ -37,7 +37,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 50px;
   width: 80%; /* Fixed width */
   height: 200px; /* Adjust the height as needed */
   background-color: #f8f9fa; /* Light gray background */
@@ -54,7 +54,10 @@ h1 {
 .ice-cream-container {
   display: flex;
   justify-content: center;
-  margin-top: 20px; /* Adjust margin as needed */
+  margin-top: 20px; /* Adjust margin as 
+  
+  needed */
+  margin-bottom: 100px;
 }
 
 .ice-cream {

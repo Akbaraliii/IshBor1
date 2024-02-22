@@ -3,10 +3,20 @@
     <div class="seller">
       <h1>Sotuvchi: Valixon Valiyev</h1>
       <h2>Telefon: +998 (00)000 00 00</h2>
+      <h1>
+        Telegram:<a href="tg://msg_url?url=https://t.me/@Nuri_1978">
+          <img style="height: 50px; width: 50px" src="../assets/telegram.jpg" alt="telegram image"
+        /></a>
+      </h1>
     </div>
     <div class="seller">
       <h1>Sotuvchi: Alixon Aliyev</h1>
       <h2>Telefon: +998 (00)000 00 00</h2>
+      <h1>
+        Telegram:<a href="tg://msg_url?url=https://t.me/@Nuri_1978">
+          <img style="height: 50px; width: 50px" src="../assets/telegram.jpg" alt="telegram image"
+        /></a>
+      </h1>
     </div>
   </div>
 </template>
