@@ -3,24 +3,20 @@
     <div class="seller">
       <h1>Sotuvchi: Valixon Valiyev</h1>
       <h2>Telefon: +998 (00)000 00 00</h2>
-      <h1>
-        Telegram:<a href="https://t.me/Nuri_1978">
-          <img style="height: 50px; width: 50px" src="../assets/telegram.jpg" alt="telegram image"
-        /></a>
-      </h1>
-      <h1>
-        Facebook:
-        <a href="https://www.facebook.com/akbaraliyev.azamjon/" target="_blank"
-          ><img src="../assets/images.jpg" style="height: 50px; width: 50px" alt="facebook image"
-        /></a>
-      </h1>
     </div>
     <div class="seller">
       <h1>Sotuvchi: Alixon Aliyev</h1>
       <h2>Telefon: +998 (00)000 00 00</h2>
+    </div>
+    <div class="seller">
       <h1>
-        Telegram:<a href="https://t.me/Nuri_1978">
+        <a href="https://t.me/Nuri_1978">
           <img style="height: 50px; width: 50px" src="../assets/telegram.jpg" alt="telegram image"
+        /></a>
+      </h1>
+      <h1>
+        <a href="https://www.facebook.com/akbaraliyev.azamjon/" target="_blank"
+          ><img src="../assets/images.jpg" style="height: 50px; width: 50px" alt="facebook image"
         /></a>
       </h1>
     </div>
@@ -34,6 +30,8 @@
   align-items: center;
   margin-top: 100px;
   padding: 20px;
+  margin-bottom: 100px;
+  margin-left: -50px;
 }
 
 .seller {
