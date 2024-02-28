@@ -19,13 +19,21 @@
           ><img src="../assets/images.jpg" style="height: 50px; width: 50px" alt="facebook image"
         /></a>
       </h1>
+      <h1>
+        <a href="https://www.instagram.com/aa_azamjon/" target="_blank"
+          ><img
+            src="../assets/Instagram_logo_2016.svg.webp"
+            style="height: 50px; width: 50px"
+            alt="facebook image"
+        /></a>
+      </h1>
     </div>
   </div>
 </template>
 
 <style scoped>
 .contact-info {
-  display: flex;
+  display: grid;
   flex-direction: column;
   align-items: center;
   margin-top: 100px;

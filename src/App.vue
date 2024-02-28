@@ -11,9 +11,6 @@
             <router-link to="/jobs" class="nav-link">Mahsulotlar</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/famous" class="nav-link">Mashhurlari</router-link>
-          </li>
-          <li class="nav-item">
             <router-link to="/login" class="nav-link">Aloqa</router-link>
           </li>
           <li class="nav-item">
@@ -38,7 +35,7 @@ import FooterView from './views/FooterView.vue'
 }
 
 .navbar {
-  background-color: #6c5b7b; /* Purple color */
+  background-color: #ffffff; /* Purple color */
   position: fixed;
   top: 0;
   left: 0;
@@ -66,7 +63,7 @@ import FooterView from './views/FooterView.vue'
 }
 
 .logo {
-  color: #fff; /* White color for the logo */
+  color: black; /* White color for the logo */
   font-size: 24px;
   margin: 0; /* Remove default margin */
   text-align: center; /* Center the logo */
@@ -74,13 +71,15 @@ import FooterView from './views/FooterView.vue'
 }
 
 .nav-link {
-  color: darkorange; /* White color for nav links */
+  color: black; /* White color for nav links */
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease; /* Add smooth color transition */
+  padding: 10px;
+  border-radius: 5%;
 }
 
 .nav-link:hover {
-  color: #d9b08c; /* Light brown color on hover */
+  color:; /* Light brown color on hover */
 }
 </style>

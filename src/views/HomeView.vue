@@ -27,6 +27,30 @@
       />
       <span class="ice-cream-name">Banana</span>
     </div>
+    <div class="ice-cream">
+      <img
+        src="../assets/photo-1497034825429-c343d7c6a68f.avif"
+        alt="ice-cream image"
+        class="ice-cream-img"
+      />
+      <span class="ice-cream-name">Banana</span>
+    </div>
+    <div class="ice-cream">
+      <img
+        src="../assets/photo-1497034825429-c343d7c6a68f.avif"
+        alt="ice-cream image"
+        class="ice-cream-img"
+      />
+      <span class="ice-cream-name">Banana</span>
+    </div>
+    <div class="ice-cream">
+      <img
+        src="../assets/photo-1497034825429-c343d7c6a68f.avif"
+        alt="ice-cream image"
+        class="ice-cream-img"
+      />
+      <span class="ice-cream-name">Banana</span>
+    </div>
   </div>
 </template>
 
@@ -37,12 +61,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 50px;
-  width: 80%; /* Fixed width */
-  height: 200px; /* Adjust the height as needed */
-  background-color: #f8f9fa; /* Light gray background */
-  border-radius: 10px; /* Rounded corners for a softer look */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+  margin-top: 70px;
+  margin-bottom: 20px;
+  width: 80%;
+  height: 100px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
@@ -52,12 +77,14 @@ h1 {
 }
 
 .ice-cream-container {
-  display: flex;
+  display: contents;
   justify-content: center;
   margin-top: 20px; /* Adjust margin as 
   
+  
   needed */
-  margin-bottom: 100px;
+  margin-bottom: 120px;
+  max-width: 1200px;
 }
 
 .ice-cream {
